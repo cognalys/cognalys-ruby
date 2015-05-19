@@ -3,7 +3,7 @@
  International mobile number verification without an SMS gateway ( GEM ).
 
 ## Initial Step:
- Grab app_id,token by creating an account on (https://www.cognalys.com) . 
+ Grab app_id,token by creating an OTP app after registring an account on (https://www.cognalys.com) . 
 
 ## Installation
 
